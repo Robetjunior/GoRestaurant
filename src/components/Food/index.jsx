@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import { FiEdit3, FiTrash } from 'react-icons/fi';
 
-import { Container } from './styles';
+import { Container } from './styles.ts';
 import api from '../../services/api';
 
 class Food extends Component {
